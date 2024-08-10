@@ -1,0 +1,10 @@
+{
+  "name": "firstApp",
+  "outputfilename": "To-Do",
+  "frontend:install": "",
+  "frontend:build": "",
+  "author": {
+    "name": "Nauryzbay Assenov",
+    "email": "nauryzbayassenov@gmail.com"
+  }
+}
